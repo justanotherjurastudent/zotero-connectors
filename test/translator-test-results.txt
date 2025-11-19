@@ -1,0 +1,263 @@
+Testing German Legal Databases Translator
+
+============================================================
+
+
+Testing: bund.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "court": "BVerwG 3. Senat",
+  "docketNumber": "3 C 7/23",
+  "caseName": "BVerwG 3. Senat 3 C 7/23",
+  "extra": "Entscheidungsart: Urteil\nECLI: ECLI:DE:BVerwG:2024:051224U3C7.23.0",
+  "abstractNote": "Entschädigungs- und Erstattungsansprüche von Arbeitnehmern und Arbeitgebern bei Quarantäne ...",
+  "dateDecided": "2024-12-05",
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/portal/t/1gum/page/bsjrsprod.psml?doc.hl=1&doc.id=jb-WBRE202500187&documentnumber=1&numberofresults=1&doctyp=juris-r&showdoccase=1&doc.part=K&paramfromHL=true#focuspoint",
+  "language": "de"
+}
+
+
+Testing: bayern.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "court": "BayObLG",
+  "docketNumber": "102 SchH 121/25 e",
+  "dateDecided": "2025-11-19",
+  "caseName": "BayObLG 102 SchH 121/25 e",
+  "extra": "Entscheidungsart: Beschluss",
+  "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2025-N-31219?hl=true",
+  "language": "de"
+}
+
+
+Testing: Amtsgericht Köln, 262 C 494_06.html
+------------------------------------------------------------
+Could not parse CSS stylesheet
+Could not parse CSS stylesheet
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "dateDecided": "2008-03-18",
+  "court": "Amtsgericht Köln Abt. 262",
+  "extra": "Entscheidungsart: Urteil\nECLI: ECLI:DE:AGK:2008:0318.262C494.06.00",
+  "docketNumber": "262 C 494/06",
+  "caseName": "Amtsgericht Köln Abt. 262 262 C 494/06",
+  "url": "https://nrwe.justiz.nrw.de/ag_koeln/j2008/262_C_494_06urteil20080318.html",
+  "language": "de"
+}
+
+
+Testing: berlin.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "24 L 385/25",
+  "court": "VG Berlin 24. Kammer",
+  "caseName": "VG Berlin 24. Kammer 24 L 385/25",
+  "extra": "Entscheidungsart: Beschluss\nECLI: ECLI:DE:VGBE:2025:1104.24L385.25.00Dokumenttyp:BeschlussQuelle:Normen:",
+  "dateDecided": "2025-11-04",
+  "url": "https://gesetze.berlin.de/bsbe/document/NJRE001625580",
+  "language": "de"
+}
+
+
+Testing: bw.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "19 T 303/25",
+  "court": "LG Stuttgart 19. Zivilkammer",
+  "caseName": "LG Stuttgart 19. Zivilkammer 19 T 303/25",
+  "extra": "Entscheidungsart: Beschluss\nECLI: ECLI:DE:LGSTUTT:2025:1118.19T303.25.00Dokumenttyp:BeschlussQuelle:Norm:",
+  "dateDecided": "2025-11-18",
+  "url": "https://www.landesrecht-bw.de/bsbw/document/NJRE001625779",
+  "language": "de"
+}
+
+
+Testing: hamburg.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "49 C 174/25",
+  "court": "AG Hamburg",
+  "caseName": "AG Hamburg 49 C 174/25",
+  "extra": "Entscheidungsart: Urteil\nECLI: ECLI:DE:AGHH:2025:1107.49C174.25.00Dokumenttyp:UrteilQuelle:Normen:",
+  "dateDecided": "2025-11-07",
+  "url": "https://www.landesrecht-hamburg.de/bsha/document/NJRE001625673",
+  "language": "de"
+}
+
+
+Testing: hessen.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "6 U 8/25",
+  "court": "OLG Frankfurt 6. Zivilsenat",
+  "caseName": "OLG Frankfurt 6. Zivilsenat 6 U 8/25",
+  "extra": "Entscheidungsart: Urteil\nECLI: ECLI:DE:OLGHE:2025:1030.6U8.25.00Dokumenttyp:UrteilQuelle:Normen:",
+  "dateDecided": "2025-10-30",
+  "url": "https://www.lareda.hessenrecht.hessen.de/bshe/document/LARE250001487",
+  "language": "de"
+}
+
+
+Testing: mv.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "3 U 42/20",
+  "court": "OLG Rostock 3. Zivilsenat",
+  "caseName": "OLG Rostock 3. Zivilsenat 3 U 42/20",
+  "extra": "Entscheidungsart: Beschluss\nECLI: ECLI:DE:OLGROST:2025:1028.3U42.20.00Dokumenttyp:BeschlussQuelle:Normen:",
+  "dateDecided": "2025-10-28",
+  "url": "https://www.landesrecht-mv.de/bsmv/document/NJRE001624235",
+  "language": "de"
+}
+
+
+Testing: ns.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "2 ME 23/25",
+  "court": "Niedersächsisches Vorschrifteninformationssystem (NI-VORIS)",
+  "caseName": "Niedersächsisches Vorschrifteninformationssystem (NI-VORIS) 2 ME 23/25",
+  "dateDecided": "2025-11-05",
+  "extra": "ECLI: ECLI:DE:OVGNI:2025:1105.2ME23.25.00VerfahrensgangvorgehendVG",
+  "url": "https://voris.wolterskluwer-online.de/browse/document/fbe2ea4d-a7ab-4755-a6ec-7b5ac8fa8bfb",
+  "language": "de"
+}
+
+
+Testing: rp.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "3 SLa 254/24",
+  "court": "Landesarbeitsgericht Rheinland-Pfalz 3. Kammer",
+  "caseName": "Landesarbeitsgericht Rheinland-Pfalz 3. Kammer 3 SLa 254/24",
+  "extra": "Entscheidungsart: Urteil\nECLI: ECLI:DE:LAGRLP:2025:1112.3SLA254.24.00Dokumenttyp:UrteilQuelle:Normen:",
+  "dateDecided": "2025-11-12",
+  "url": "https://www.landesrecht.rlp.de/bsrp/document/NJRE001625766",
+  "language": "de"
+}
+
+
+Testing: saarland.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "2 A 122/24",
+  "court": "Oberverwaltungsgericht des Saarlandes 2. Senat",
+  "caseName": "Oberverwaltungsgericht des Saarlandes 2. Senat 2 A 122/24",
+  "extra": "Entscheidungsart: Beschluss\nECLI: ECLI:DE:OVGSL:2025:1103.2A122.24.00Dokumenttyp:BeschlussQuelle:Normen:",
+  "dateDecided": "2025-11-03",
+  "url": "https://recht.saarland.de/bssl/document/NJRE001625297",
+  "language": "de"
+}
+
+
+Testing: sachsen-anhalt.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "3 L 116/25.Z",
+  "court": "Oberverwaltungsgericht des Landes Sachsen-Anhalt 3. Senat",
+  "caseName": "Oberverwaltungsgericht des Landes Sachsen-Anhalt 3. Senat 3 L 116/25.Z",
+  "extra": "Entscheidungsart: Beschluss\nECLI: ECLI:DE:OVGST:2025:1023.3L116.25.Z.00Dokumenttyp:BeschlussQuelle:Normen:",
+  "dateDecided": "2025-10-23",
+  "url": "https://www.landesrecht.sachsen-anhalt.de/bsst/document/NJRE001624209",
+  "language": "de"
+}
+
+
+Testing: sh.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "3 LA 5/23",
+  "court": "Oberverwaltungsgericht für das Land Schleswig-Holstein 3. Senat",
+  "caseName": "Oberverwaltungsgericht für das Land Schleswig-Holstein 3. Senat 3 LA 5/23",
+  "extra": "Entscheidungsart: Beschluss\nECLI: ECLI:DE:OVGSH:2025:1106.3LA5.23.00Dokumenttyp:BeschlussQuelle:Normen:",
+  "dateDecided": "2025-11-06",
+  "url": "https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/NJRE001625078",
+  "language": "de"
+}
+
+
+Testing: th.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "docketNumber": "1 JVEG 313/25",
+  "court": "Thüringer Landessozialgericht 1. Senat",
+  "caseName": "Thüringer Landessozialgericht 1. Senat 1 JVEG 313/25",
+  "extra": "Entscheidungsart: Beschluss\nECLI: ECLI:DE:LSGTH:2025:1008.L1JVEG313.25.00Dokumenttyp:BeschlussQuelle:Normen:",
+  "dateDecided": "2025-10-08",
+  "url": "https://landesrecht.thueringen.de/bsth/document/NJRE001623819",
+  "language": "de"
+}
+
+
+Testing: brandenburg.html
+------------------------------------------------------------
+Detected type: case
+
+Extracted metadata:
+{
+  "itemType": "case",
+  "caseName": "Landesrechtsportal Brandenburg | Entscheidungsdatenbank der Gerichte in Brandenburg",
+  "dateDecided": "2022-06-14",
+  "extra": "ECLI: ECLI:DE:ARBGCOT:2022:0614.1CA726.21.00",
+  "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/21660",
+  "language": "de"
+}
+
+
+============================================================
+Testing complete
